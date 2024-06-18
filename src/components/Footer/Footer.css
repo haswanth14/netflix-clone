@@ -29,6 +29,13 @@
     font-size: 14px;
 }
 
+.hashlogo{
+    height: 60px;
+    width: 30px;
+    display: flex;
+    right: auto;
+}
+
 @media (max-width: 800px) {
     .footer-icons img{
         width: 25px;

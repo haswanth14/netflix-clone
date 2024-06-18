@@ -1,3 +1,5 @@
+Link: https://thenetflix-clone.vercel.app/
+
 Overview:
 
 This project is a Netflix clone built using React.js, designed to enhance skills in web development. It features a interactive user interface with various functionalities. The project is powered by TMDB API, utilizing Firebase for user Authentication and database management. Aligned with media queries to fit effectively based on screen ratio.
